@@ -138,3 +138,6 @@ This tool is intended for **educational purposes** and **ethical security testin
 ---
 
 Enjoy scanning with **FireJS** by @jrhackerman! 🔥
+
+####  Fuel your hacking with a hot cup of coffee, buy me one!
+<a href="https://www.buymeacoffee.com/PsyberBook" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
