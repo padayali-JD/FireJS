@@ -1,5 +1,5 @@
 
-# FireJS: JavaScript Sensitive Information Scanner
+# FireJS: JavaScript Sensitive Information Scanner by Padayali-JD
 
 **FireJS** is a powerful tool designed to scan JavaScript files for sensitive information such as hardcoded URLs, API endpoints, usernames, passwords, API keys, version information, email addresses, phone numbers, and other security-related data. This tool can be used to identify potential vulnerabilities in web applications and ensure sensitive data is not exposed in client-side code.
 
